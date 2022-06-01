@@ -7,10 +7,6 @@
 <a href="#"><img title="Yuru-chan bot" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/riychdwayne"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
 <a href="https://github.com/riychdwayne/Chika-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riychdwayne/Chika-Md?color=blue&style=flat-square"></a>
 <a href="https://github.com/riychdwayne/Chika-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychdwayne/Chika-Md?color=red&style=flat-square"></a>
