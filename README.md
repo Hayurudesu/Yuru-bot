@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="Yuru-chan bot" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Yuru-chan bot" src="https://img.shields.io/badge/YuruChan Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -30,12 +30,11 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+> Ini Cuman Buat Grup Fotosintesis, Enggak Boleh Ke Yang Lain, Kalo Enggak Gua Bakal Hapus
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-yuru](https://wa.me/6285710188851)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
