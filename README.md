@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
+<img src="https://i.pinimg.com/736x/15/18/67/1518671b3ebf5574d0533fad4a321575.jpg" alt="Chika-Md" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="CHIKA MULTI DEVICE" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Yuru-chan bot" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -68,45 +68,15 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
+global.owner = ['625710188851']
 global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.ownernomer = '625710188851'
+global.ownername = 'Hayuru'
+global.botname = 'Yuru-chan Bot'
+global.footer = 'Hayuru'
+global.email = 'itohayuru@gmail.com'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© Yuru-chan Bot'
+global.author = 'Hayuru'
+global.sessionName = 'Yuru'
 ```
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/U1suj4wuWvc)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/U1suj4wuWvc"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
-</p>
-
-## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
-
-# Thanks to
-- [Dika](https://github.com/DikaArdnt) <br> 
-- [Fatih](https://github.com/FatihArridho) <br> 
-- [Zeeone](https://github.com/zeeone-ofc) <br> 
-- [Yoga](https://github.com/YogGanz) <br> 
-- [Riy](https://github.com/riychdwayne) <br> 
